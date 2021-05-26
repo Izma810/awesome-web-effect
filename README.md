@@ -186,9 +186,11 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 ## Contribute
 Contributions welcome! We welcome all contributions, especially by those who worked through the list and noticed some missing / unclear information! Please use the pull requests to discuss about the usefulness of a change.
+Thank you
 
 ## License
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
